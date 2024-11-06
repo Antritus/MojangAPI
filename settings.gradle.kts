@@ -1,2 +1,2 @@
-rootProject.name = "Mojang"
+rootProject.name = "mojang"
 
